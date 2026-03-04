@@ -1,0 +1,58 @@
+# LANY – Super Far
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:11.43] Up all night on my mind got me thinking
+[00:13.98] Wanna stay, can you give me a reason?
+[00:17.27] I don't think so, I don't think so
+[00:21.45] I'm in love with someone but I'm not sure
+[00:24.09] She can love someone back the way they love her
+[00:27.13] I don't think so, I don't think so
+[00:44.13] 
+[00:31.27] Don't be mean, if you wanna go
+[00:36.06] You can leave and leave my heart alone
+[00:55.06] 
+[00:41.25] Waking up to nothing when you're super far from home
+[00:45.73] And I watch you fall asleep at night and lay there on my own
+[00:50.65] Got me begging for affection
+[00:53.34] All you do is roll your eyes
+[00:56.20] Broken down, I've had enough
+[00:58.76] If this is love I don't want it
+[01:14.26] 
+[01:11.57] Give it time, c'mon babe, it's been ten months
+[01:14.02] You should know, do you know, know what you want?
+[01:17.28] I don't think so, I don't think so
+[01:21.55] Make it work, now it hurts but i'll go there
+[01:24.01] Do the same, can you show me that you care?
+[01:27.23] God I hope so, but I don't think so
+[01:44.73] 
+[01:31.31] Don't be mean, if you're here for good
+[01:36.07] I'm gonna need a little more from you
+[01:54.57] 
+[01:41.19] Waking up to nothing when you're super far from home
+[01:45.69] And I watch you fall asleep at night and lay there on my own
+[01:50.69] Got me begging for affection
+[01:53.22] All you do is roll your eyes
+[01:56.23] Broken down, I've had enough
+[01:58.48] If this is love I don't want it
+[02:13.98] 
+[02:01.35] All my friends keep saying that I'm way too good to you
+[02:05.44] But my heart is so invested, I don't wanna face the truth
+[02:10.50] I'm not happy and you know it and you still don't even try
+[02:15.99] Broken down, I've had enough
+[02:18.52] If this is love I don't want it
+[02:34.02] 
+[02:41.18] Waking up to nothing when you're super far from home
+[02:45.65] And I watch you fall asleep at night and lay there on my own
+[02:50.62] Got me begging for affection
+[02:53.31] All you do is roll your eyes
+[02:56.22] Broken down, I've had enough
+[02:58.89] If this is love I don't want it
+[03:14.39] 
+[03:01.47] All my friends keep saying that I'm way too good to you
+[03:05.65] But my heart is so invested, I don't wanna face the truth
+[03:10.74] I'm not happy and you know it and you still don't even try
+[03:16.21] Broken down, I've had enough
+[03:18.85] If this is love I don't want it
+```
